@@ -1,0 +1,19 @@
+{
+  "name": "javascriptcodinginterviewquestions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannah68/JavaScriptCodingInterviewQuestions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannah68/JavaScriptCodingInterviewQuestions/issues"
+  },
+  "homepage": "https://github.com/hannah68/JavaScriptCodingInterviewQuestions#readme"
+}
